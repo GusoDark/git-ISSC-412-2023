@@ -41,3 +41,13 @@ Integración de ramas:
 Para este fin se utiliza la operación "merge".
 Combina los comits de una rama hacia otra.
 en un solo comit conocido como un "merge comit".
+
+
+Resolución de conflictos
+Estrategias:
+1.- Merge commit: crea un merge comit con cambios aplicados en el orden que el desarrollador elija.
+2.- Cambis el punto de origen de una rama, resolviendo conflictos durante la operación. Requiere un force push para sobreescribir la rama remota.
+
+
+Pull request:
+Solicita la aprobación de los cambios en una rama a otro colaborador, previo a la integración de las 2 tamas (merge).
