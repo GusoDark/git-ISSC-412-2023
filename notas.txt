@@ -29,4 +29,7 @@ Commands:
   - git pull
   Se Sincroniza la rama local con lo que hay en la remota.
   En otras palabras, descarga los comits que hay en la remota y faltan en la local.
-  
+Ej. git pull
+
+Tamas:
+TODO: Agregar definicion de ramas.
