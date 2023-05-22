@@ -35,3 +35,9 @@ Tamas:
 Las ramas nos permiten trabajar con el repositorio sin alterar la estabilidad de la rama principal.
 Como cualquier otra rama hay una local y una remota.
 Las ramas parten de un comit de origen. 
+Ej. git pull
+
+Integración de ramas: 
+Para este fin se utiliza la operación "merge".
+Combina los comits de una rama hacia otra.
+en un solo comit conocido como un "merge comit".
