@@ -32,4 +32,6 @@ Commands:
 Ej. git pull
 
 Tamas:
-TODO: Agregar definicion de ramas.
+Las ramas nos permiten trabajar con el repositorio sin alterar la estabilidad de la rama principal.
+Como cualquier otra rama hay una local y una remota.
+Las ramas parten de un comit de origen. 
